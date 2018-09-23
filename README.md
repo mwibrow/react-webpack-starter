@@ -11,5 +11,5 @@ npm i
 npm run watch
 ```
 
-The app is server by [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
-which give hot reloading.
+The app is server by [webpack-dev-server](https://github.com/webpack/webpack-dev-server).
+at `localhost:3000`. Edits to the source files will be updated in the browser.
