@@ -1,4 +1,4 @@
-# React webpack-starter
+# React webpack starter
 
 A vaguely minimal [React](https://reactjs.org/) setup with [Bulma](https://bulma.io/).
 
